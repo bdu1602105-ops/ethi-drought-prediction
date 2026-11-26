@@ -1,0 +1,9 @@
+# Example only. Use the requirements.txt produced by the Colab export cell,
+# because it pins scikit-learn (and xgboost) to the versions used for training.
+streamlit>=1.50
+pandas
+numpy
+plotly>=5.20
+joblib
+scikit-learn
+xgboost
